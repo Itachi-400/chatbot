@@ -22,4 +22,4 @@ jobs:
     - name: Run bot
       run: python main.py
       env:
-        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        OPENAI_API_KEY: ${{ "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" }}
